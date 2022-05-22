@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "port_regs.h": "c",
+        "std_types.h": "c",
+        "bit_math.h": "c",
+        "rcc_interface.h": "c"
+    }
+}
